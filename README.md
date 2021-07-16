@@ -1,5 +1,1 @@
-# COVID 19
-
--[covid ](./public/projects.jpg)
-
--[covid ](https://covid-world-map.netlify.app/)
+-[Covid-19 ](https://covid-world-map.netlify.app/)
